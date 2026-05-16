@@ -49,14 +49,6 @@ python -m pip install -r requirements.txt
 
 ## Usage
 
-### Interactive menu launcher
-
-Run the toolbox menu to choose tools interactively:
-
-```powershell
-python menu.py
-```
-
 ### Command-line toolkit
 
 Run the main toolkit script with subcommands:

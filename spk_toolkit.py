@@ -16,7 +16,7 @@ except Exception:
     menu_main = None
 
 def main():
-    parser = argparse.ArgumentParser(description="HackerGPT Penetration Testing Toolkit")
+    parser = argparse.ArgumentParser(description="Penetration Testing Toolkit")
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
 
     # Scan Command
